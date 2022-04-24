@@ -1,4 +1,4 @@
-#tic-tac-toe
+# tic-tac-toe
 
 ## Features
 - players take turns to choose postion for O and X
